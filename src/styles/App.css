@@ -1,1 +1,27 @@
+.app {
+    padding: 20px;
+    transition: background-color 0.3s, color 0.3s;
+}
 
+
+
+button {
+    cursor: pointer;
+}
+
+.line {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 2px;
+    background-color: #ccc;
+}
+
+h3 {
+    margin-top: 20px;
+    color: #555;
+}
+
+
+li.active {
+    text-decoration: line-through;
+}
